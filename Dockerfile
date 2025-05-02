@@ -16,5 +16,5 @@ COPY . .
 # Expón el puerto de la app
 EXPOSE 3000
 
-# Comando para iniciar la app
+# Comando para iniciar la app 7777777
 CMD ["node", "crud-vendedores/app.js"]
